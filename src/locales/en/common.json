@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "enrollment": "Enrollment",
+    "resources": "Resources",
+    "events": "Events",
+    "contact": "Contact",
+    "volunteer": "Volunteer"
+  },
+  "hero": {
+    "title": "Peninsula Tamil School",
+    "subtitle": "Preserving Tamil Language & Culture in the Bay Area",
+    "ctaPrimary": "Enroll Now",
+    "ctaSecondary": "Learn More"
+  },
+  "stats": {
+    "students": "Active Students",
+    "years": "Years of Excellence",
+    "volunteers": "Dedicated Volunteers",
+    "successRate": "Success Rate"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "Our Mission",
+    "history": "Our History",
+    "team": "Our Team"
+  },
+  "programs": {
+    "title": "Our Programs",
+    "preK": "Pre-K Tamil (Ages 3-5)",
+    "beginner": "Beginner (Ages 6-8)",
+    "intermediate": "Intermediate (Ages 9-12)",
+    "advanced": "Advanced (Ages 13+)"
+  },
+  "enrollment": {
+    "title": "Enrollment",
+    "register": "Register Now",
+    "fees": "Fees & Payment",
+    "requirements": "Requirements"
+  },
+  "footer": {
+    "copyright": "© 2025 Peninsula Tamil School. All rights reserved.",
+    "followUs": "Follow Us"
+  }
+}
